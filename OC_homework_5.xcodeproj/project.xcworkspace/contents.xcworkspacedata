@@ -2,6 +2,18 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:../OC_homework_5/AddressBook.h">
+   </FileRef>
+   <FileRef
+      location = "group:../OC_homework_5/AddressBook.m">
+   </FileRef>
+   <FileRef
+      location = "group:../OC_homework_5/AddressCard.h">
+   </FileRef>
+   <FileRef
+      location = "group:../OC_homework_5/AddressCard.m">
+   </FileRef>
+   <FileRef
       location = "self:OC_homework_5.xcodeproj">
    </FileRef>
 </Workspace>
